@@ -1,0 +1,7 @@
+﻿  Inventory.cpp
+C:\Users\daren\source\CISC192\Inventory Class\Inventory Class\Inventory.cpp(33,2): error C3861: 'getTotalCost': identifier not found
+C:\Users\daren\source\CISC192\Inventory Class\Inventory Class\Inventory.cpp(38,2): error C2065: 'itemNumber': undeclared identifier
+  main.cpp
+C:\Users\daren\source\CISC192\Inventory Class\Inventory Class\inventory.cpp(33,2): error C3861: 'getTotalCost': identifier not found
+C:\Users\daren\source\CISC192\Inventory Class\Inventory Class\inventory.cpp(38,2): error C2065: 'itemNumber': undeclared identifier
+  Generating Code...

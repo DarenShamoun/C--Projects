@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\daren\source\CISC192\Array Allocator\Array Allocator\main.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Array Allocator.vcxproj -> C:\Users\daren\source\CISC192\Array Allocator\x64\Debug\Array Allocator.exe

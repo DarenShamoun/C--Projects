@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\daren\source\CISC192\Tip Calculator\main.cpp(24,9): warning C4101: 'usdAmount': unreferenced local variable
+C:\Users\daren\source\CISC192\Tip Calculator\main.cpp(112): warning C4715: 'getTipLevel': not all control paths return a value
+  Tip Calculator.vcxproj -> C:\Users\daren\source\CISC192\Tip Calculator\Debug\Tip Calculator.exe

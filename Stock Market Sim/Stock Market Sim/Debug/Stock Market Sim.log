@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\daren\source\repos\Stock Market Sim\Stock Market Sim\Source.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\daren\source\repos\Stock Market Sim\Stock Market Sim\Source.cpp(13,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Stock Market Sim.vcxproj -> C:\Users\daren\source\repos\Stock Market Sim\Debug\Stock Market Sim.exe

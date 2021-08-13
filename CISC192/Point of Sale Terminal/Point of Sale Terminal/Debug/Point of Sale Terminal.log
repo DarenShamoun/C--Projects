@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\daren\source\CISC192\Point of Sale Terminal\Point of Sale Terminal\main.cpp(124): warning C4715: 'lookUp': not all control paths return a value
+  Point of Sale Terminal.vcxproj -> C:\Users\daren\source\CISC192\Point of Sale Terminal\Debug\Point of Sale Terminal.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\daren\source\CISC192\EnergyDrinkConsumption\EnergyDrinkConsumption\main.cpp(26,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\daren\source\CISC192\EnergyDrinkConsumption\EnergyDrinkConsumption\main.cpp(27,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EnergyDrinkConsumption.vcxproj -> C:\Users\daren\source\CISC192\EnergyDrinkConsumption\Debug\EnergyDrinkConsumption.exe
